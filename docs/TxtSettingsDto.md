@@ -1,0 +1,11 @@
+# TxtSettingsDto
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**TagRegexp** | **string** |  | [optional] [default to null]
+**TranslatableTextRegexp** | **string** |  | [optional] [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

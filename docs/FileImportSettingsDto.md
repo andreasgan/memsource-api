@@ -1,0 +1,50 @@
+# FileImportSettingsDto
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**InputCharset** | **string** |  | [optional] [default to null]
+**OutputCharset** | **string** |  | [optional] [default to null]
+**ZipCharset** | **string** |  | [optional] [default to null]
+**FileFormat** | **string** |  | [optional] [default to null]
+**TargetLength** | **bool** |  | [optional] [default to null]
+**TargetLengthMax** | **int32** |  | [optional] [default to null]
+**TargetLengthPercent** | **bool** |  | [optional] [default to null]
+**TargetLengthPercentValue** | **float64** |  | [optional] [default to null]
+**Android** | [***AndroidSettingsDto**](AndroidSettingsDto.md) |  | [optional] [default to null]
+**Idml** | [***IdmlSettingsDto**](IdmlSettingsDto.md) |  | [optional] [default to null]
+**Xls** | [***XlsSettingsDto**](XlsSettingsDto.md) |  | [optional] [default to null]
+**MultilingualXml** | [***MultilingualXmlSettingsDto**](MultilingualXmlSettingsDto.md) |  | [optional] [default to null]
+**Php** | [***PhpSettingsDto**](PhpSettingsDto.md) |  | [optional] [default to null]
+**Resx** | [***ResxSettingsDto**](ResxSettingsDto.md) |  | [optional] [default to null]
+**Json** | [***JsonSettingsDto**](JsonSettingsDto.md) |  | [optional] [default to null]
+**Html** | [***HtmlSettingsDto**](HtmlSettingsDto.md) |  | [optional] [default to null]
+**MultilingualXls** | [***MultilingualXlsSettingsDto**](MultilingualXlsSettingsDto.md) |  | [optional] [default to null]
+**MultilingualCsv** | [***MultilingualCsvSettingsDto**](MultilingualCsvSettingsDto.md) |  | [optional] [default to null]
+**Csv** | [***CsvSettingsDto**](CsvSettingsDto.md) |  | [optional] [default to null]
+**Txt** | [***TxtSettingsDto**](TxtSettingsDto.md) |  | [optional] [default to null]
+**Xlf2** | [***Xlf2SettingsDto**](Xlf2SettingsDto.md) |  | [optional] [default to null]
+**QuarkTag** | [***QuarkTagSettingsDto**](QuarkTagSettingsDto.md) |  | [optional] [default to null]
+**Pdf** | [***PdfSettingsDto**](PdfSettingsDto.md) |  | [optional] [default to null]
+**TmMatch** | [***TmMatchSettingsDto**](TMMatchSettingsDto.md) |  | [optional] [default to null]
+**Xml** | [***XmlSettingsDto**](XmlSettingsDto.md) |  | [optional] [default to null]
+**Mif** | [***MifSettingsDto**](MifSettingsDto.md) |  | [optional] [default to null]
+**Properties** | [***PropertiesSettingsDto**](PropertiesSettingsDto.md) |  | [optional] [default to null]
+**Doc** | [***DocSettingsDto**](DocSettingsDto.md) |  | [optional] [default to null]
+**Xlf** | [***XlfSettingsDto**](XlfSettingsDto.md) |  | [optional] [default to null]
+**SdlXlf** | [***SdlXlfSettingsDto**](SdlXlfSettingsDto.md) |  | [optional] [default to null]
+**Ttx** | [***TtxSettingsDto**](TtxSettingsDto.md) |  | [optional] [default to null]
+**Ppt** | [***PptSettingsDto**](PptSettingsDto.md) |  | [optional] [default to null]
+**Yaml** | [***YamlSettingsDto**](YamlSettingsDto.md) |  | [optional] [default to null]
+**Dita** | [***DitaSettingsDto**](DitaSettingsDto.md) |  | [optional] [default to null]
+**DocBook** | [***DocBookSettingsDto**](DocBookSettingsDto.md) |  | [optional] [default to null]
+**Po** | [***PoSettingsDto**](PoSettingsDto.md) |  | [optional] [default to null]
+**Mac** | [***MacSettingsDto**](MacSettingsDto.md) |  | [optional] [default to null]
+**Md** | [***MdSettingsDto**](MdSettingsDto.md) |  | [optional] [default to null]
+**Psd** | [***PsdSettingsDto**](PsdSettingsDto.md) |  | [optional] [default to null]
+**SegRule** | [***SegRuleReference**](SegRuleReference.md) |  | [optional] [default to null]
+**TargetSegRule** | [***SegRuleReference**](SegRuleReference.md) |  | [optional] [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
