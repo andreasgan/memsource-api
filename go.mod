@@ -1,4 +1,4 @@
-module github.com/dragosv/delta
+module github.com/dragosv/memsource-api
 
 go 1.14
 
